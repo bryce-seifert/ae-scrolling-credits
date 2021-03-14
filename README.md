@@ -1,8 +1,9 @@
 # ae-scrolling-credits
  Turn a spreadsheet into simple scrolling text in After Effects.
+ 
+ Perfect for creating film credits or a scrolling list of names for a commencement or graduation.
 
 ![Image of ae-scrolling-credits](header_img.png)
-Perfect for creating credits or a scrolling list of names for a commencement or graduation.
 
 To use:
 * Paste all of the desired names under the "Names" column in the Data.csv file. Do not split into multiple columns. Do not delete the header "Names" row.
