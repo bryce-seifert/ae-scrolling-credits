@@ -8,9 +8,26 @@
 ![Image of ae-scrolling-credits](header_img.png)
 
 To use:
-* Paste all of the desired names under the "Names" column in the Data.csv file. Do not split into multiple columns. Do not delete the header "Names" row.
-* Launch scrolling.aep
-* Ensure the "Number of Rows" under the Data.csv layer is the number of rows you are expecting. Adjust if needed. (Note: AE does not auto update this value if you save a new version of the .csv and there are *additional* rows)
-* Adjust various parameters including Layout, Speed, and Edge Padding in the Effects Controls window of the Settings layer.
-* If you need to adjust any character attributes like font or text size, highlight all of the "Names" layers (cyan color) and make changes in the Character window.
+* Open the included Data.csv template and paste all of the desired names under the "Names" column
+* *Optional: Paste additional info you want grouped with each name (the character they played, graduting "with honors") in the "Extra Row" column*
+* Save the Data.csv file
+* Launch the scrolling.aep file
+* Ensure the "Number of Rows" under the Data.csv layer is the number of rows you are expecting. Adjust if needed (Note: AE does not auto update this value if you save a new version of the .csv and there are *additional* rows)
+* Adjust various parameters in the Effects Controls window of the Settings layer
 * Trim your comp to the amount of time it takes all of the names to scroll through the frame and export!
+
+
+Available Paramaters:
+* Layout (One Column or Two Columns)
+* Data Type (Name + Extra Row or Name Only)
+* Scroll Speed
+* Edge Padding
+* Edge Fade
+* Font
+* Font Size
+* Fill Color
+* Row Spacing
+* Extra Row – Scale
+* Extra Row – Bold
+* Extra Row – Italic
+* Extra Row – Small Caps
