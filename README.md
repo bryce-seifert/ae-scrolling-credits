@@ -9,15 +9,15 @@
 
 To use:
 * Open the included Data.csv template and paste all of the desired names under the "Names" column
-* *Optional: Paste additional info you want grouped with each name (the character they played, graduting "with honors") in the "Extra Row" column*
+* *Optional: Paste additional info you want grouped with each name (the character they played, graduating "with honors") in the "Extra Row" column*
 * Save the Data.csv file
 * Launch the scrolling.aep file
-* Ensure the "Number of Rows" under the Data.csv layer is the number of rows you are expecting. Adjust if needed (Note: AE does not auto update this value if you save a new version of the .csv and there are *additional* rows)
+* Ensure the "Number of Rows" under the Data.csv layer is the number of rows you are expecting. Adjust if needed *(Note: AE does not seems to consistently auto update this value if you save a new version of the .csv, so please check before exporting)*
 * Adjust various parameters in the Effects Controls window of the Settings layer
 * Trim your comp to the amount of time it takes all of the names to scroll through the frame and export!
 
 
-Available Paramaters:
+Available Parameters:
 * Layout (One Column or Two Columns)
 * Data Type (Name + Extra Row or Name Only)
 * Scroll Speed
